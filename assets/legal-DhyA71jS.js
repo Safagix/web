@@ -1,0 +1,1 @@
+import{O as e,g as t,k as n,o as r,u as i}from"./Secciones-oAIqguyd.js";var a=n(),o=e(),s=t(),c=`/web/`,l=(e,t)=>{let n=document.getElementById(e);n&&(0,o.createRoot)(n).render((0,s.jsx)(a.StrictMode,{children:t}))};l(`encabezado`,(0,s.jsx)(i,{base:c})),l(`pie`,(0,s.jsx)(r,{}));

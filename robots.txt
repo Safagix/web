@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://safagix.github.io/web/sitemap.xml
